@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ClickyGame2/static/css/main.85fecc86.chunk.css",
+    "main.js": "/ClickyGame2/static/js/main.ae59cc33.chunk.js",
+    "main.js.map": "/ClickyGame2/static/js/main.ae59cc33.chunk.js.map",
+    "runtime~main.js": "/ClickyGame2/static/js/runtime~main.1864acf8.js",
+    "runtime~main.js.map": "/ClickyGame2/static/js/runtime~main.1864acf8.js.map",
+    "static/js/2.76d8ed81.chunk.js": "/ClickyGame2/static/js/2.76d8ed81.chunk.js",
+    "static/js/2.76d8ed81.chunk.js.map": "/ClickyGame2/static/js/2.76d8ed81.chunk.js.map",
+    "index.html": "/ClickyGame2/index.html",
+    "precache-manifest.f2bc25a53384e54db53bd38eed22924a.js": "/ClickyGame2/precache-manifest.f2bc25a53384e54db53bd38eed22924a.js",
+    "service-worker.js": "/ClickyGame2/service-worker.js",
+    "static/css/main.85fecc86.chunk.css.map": "/ClickyGame2/static/css/main.85fecc86.chunk.css.map",
+    "static/media/ave.png": "/ClickyGame2/static/media/ave.2d3a80cc.png",
+    "static/media/ballena.png": "/ClickyGame2/static/media/ballena.9b6132f7.png",
+    "static/media/cebra.png": "/ClickyGame2/static/media/cebra.1a286f2c.png",
+    "static/media/chango.png": "/ClickyGame2/static/media/chango.24461554.png",
+    "static/media/elefante.png": "/ClickyGame2/static/media/elefante.dc87f82b.png",
+    "static/media/flamingo.png": "/ClickyGame2/static/media/flamingo.4a1ac61d.png",
+    "static/media/foca.png": "/ClickyGame2/static/media/foca.b23008cb.png",
+    "static/media/Jumbotron.css": "/ClickyGame2/static/media/green-background.a2478aaf.png",
+    "static/media/iguana.png": "/ClickyGame2/static/media/iguana.2af17d72.png",
+    "static/media/leopardo.png": "/ClickyGame2/static/media/leopardo.12fb0fc7.png",
+    "static/media/mantarralla.png": "/ClickyGame2/static/media/mantarralla.284d58db.png",
+    "static/media/oso.png": "/ClickyGame2/static/media/oso.9a88f373.png",
+    "static/media/pinguino.png": "/ClickyGame2/static/media/pinguino.6a171b3c.png"
+  }
+}
