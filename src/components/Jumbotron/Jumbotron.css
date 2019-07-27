@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url('../../images/green-background.png') !important;
+    height: 200px;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: white;
+    font-size: 12px;
+  }
+  
+  @media (min-width: 576px) {
+    .jumbotron {
+      font-size: calc(10px + 14 * (100vw - 320px) / 800);
+    }
+  }
+  .m-0 {
+    font-size: 20px;
+
+  }
